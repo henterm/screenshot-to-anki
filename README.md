@@ -54,6 +54,20 @@ streamlit run src/app.py
 | Yandex Translate (old) | Yellow UI | Done |
 | Google Translate | — | In progress |
 
+## Demo
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><b>Scanning & Export</b><br><img src="assets/demo_streamlit.gif" width="100%"></td>
+      <td align="center"><b>Result in Anki</b><br><img src="assets/demo_anki.gif" width="100%"></td>
+    </tr>
+  </table>
+</div>
+
+## Example Screenshots
+<img src="assets/screenshots/example1.jpg" width="250"> <img src="assets/screenshots/example2.jpg" width="250">
+
 ## Tech stack
 
 - **OpenCV + Pillow** — image preprocessing
